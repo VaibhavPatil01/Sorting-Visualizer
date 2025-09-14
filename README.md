@@ -12,7 +12,7 @@ An interactive and visually engaging **Sorting Visualizer** that demonstrates th
 
 ## Screenshots
 
-<img src="https://i.postimg.cc/X7VnhpgL/Screenshot-2025-06-25-175708.png" alt="Sorting Visualizer Screenshot" width="600"/>
+![Homepage](https://i.postimg.cc/VvgzkVLq/Screenshot-2025-06-25-175708.png)  
 
 ---
 
